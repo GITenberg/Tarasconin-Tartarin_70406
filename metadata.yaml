@@ -1,0 +1,41 @@
+_repo: Tarasconin-Tartarin_70406
+_version: 0.0.1
+alternative_title: Tartarin de Tarascon. Finnish
+contributor:
+  translator:
+    agent_name: Hahl, Jalmari
+    alias: Hahl, J.
+    birthdate: 1869
+    deathdate: 1929
+    gutenberg_agent_id: '8054'
+    url: http://www.gutenberg.org/2009/agents/8054
+    wikipedia: https://fi.wikipedia.org/wiki/Jalmari_Hahl
+creator:
+  author:
+    agent_name: Daudet, Alphonse
+    alias: Daudet, Louis Marie Alphonse
+    birthdate: 1840
+    deathdate: 1897
+    gutenberg_agent_id: '727'
+    url: http://www.gutenberg.org/2009/agents/727
+    wikipedia: http://en.wikipedia.org/wiki/Alphonse_Daudet
+description: ''
+gutenberg_issued: '2023-03-29'
+identifiers:
+  gutenberg: '70406'
+language: fi
+pgterms:marc905: 20221125062345daudet
+pgterms:marc906: '1900'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aFinland :$bOtava, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Algeria -- Fiction'
+- !lcsh 'Lion hunting -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: Tarasconin Tartarin
+url: http://www.gutenberg.org/ebooks/70406
