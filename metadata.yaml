@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '8054'
     url: http://www.gutenberg.org/2009/agents/8054
     wikipedia: https://fi.wikipedia.org/wiki/Jalmari_Hahl
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Daudet, Alphonse
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/727
     wikipedia: http://en.wikipedia.org/wiki/Alphonse_Daudet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70406#Tarasconin-Tartarin
 gutenberg_issued: '2023-03-29'
 identifiers:
   gutenberg: '70406'
